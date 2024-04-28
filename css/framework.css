@@ -9,6 +9,9 @@
     --black-color: #000000;
     --main-transition: 0.3s;
 }
+.m-tra{
+    transition: var(--main-transition);
+}
 /* Start Box */
 .d-flex{
     display: flex;
